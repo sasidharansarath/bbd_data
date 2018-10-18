@@ -6,7 +6,9 @@ Weather data using the API from DarkSky.Net https://darksky.net/dev/docs
 Dependencies: 
 
 datetime https://docs.python.org/2/library/datetime.html
+
 requests http://docs.python-requests.org/en/master/user/quickstart/
+
 pandas
 
 Steps:
